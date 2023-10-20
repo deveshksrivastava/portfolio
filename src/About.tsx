@@ -8,7 +8,15 @@ function About() {
                   <div className="row mb-50 pt-30">
                       <div className="col-md-12">
                           <div className="section-title">
-                          <h2 className="text-dark mb-0">About me</h2>
+                <h2 className="text-dark mb-0">About me</h2>
+                <div>
+                  <span>test</span>
+                  <span style={{padding:'10px', margin: '10px 20px 10px 20px' /* top, right, bottom, left */}}>test2</span>
+                  <span>test2</span>
+                  <span>test2</span>
+                  <span style={{margin: '10px 20px 10px 20px'}}>test2</span>
+                  <span>test2</span>
+                </div>
                           <p className="text-muted mb-0">Main informations about me and what I love to do.</p>
                           </div>
                       </div>

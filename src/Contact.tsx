@@ -42,8 +42,8 @@ function Contact() {
                               </button>
   
                           </form>
-                      </div>
-                     
+            </div>
+  
                       {/* <!--Contact -info --> */}
                       <div className="col-lg-6">
                           <h5 className="text-dark">Let's talk about everything!</h5>

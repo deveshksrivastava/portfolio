@@ -153,7 +153,7 @@ function App() {
 
       
           {/* <!-- Blog --> */}
-   <Blog />
+      <Blog />
   
           {/* <!-- Contact --> */}
        <Contact />
